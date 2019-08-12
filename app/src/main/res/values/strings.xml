@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Universitas_Swasta</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Gabriel Yoda Gustiegan</string>
+    <string name="nav_header_subtitle">yodaegan@gmail.com</string>
+    <string name="nav_header_desc">Foto</string>
+    <string name="action_settings">Settings</string>
+    <string name="judul_item">Judul Universitas</string>
+    <string name="detail">Detail</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">About Us</string>
+</resources>
